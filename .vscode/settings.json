@@ -1,0 +1,13 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "E:\\HarKrishan\\software\\jdk-17.0.12_windows-x64_bin\\jdk-17.0.12",
+      "default": true
+    }
+  ],
+  "maven.executable.path": "E:\\HarKrishan\\software\\apache-maven-3.9.12\\bin\\mvn.cmd",
+  "java.format.settings.url": "${workspaceFolder}/.vscode/eclipse-formatter.xml",
+  "java.saveActions.organizeImports": true,
+  "java.configuration.updateBuildConfiguration": "interactive"
+}

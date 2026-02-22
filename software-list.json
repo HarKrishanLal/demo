@@ -1,0 +1,16 @@
+[
+  {
+    "name": "jdk",
+    "version": "17.0.12",
+    "path": "E:\\HarKrishan\\software\\jdk-17.0.12_windows-x64_bin\\jdk-17.0.12"
+  },
+  {
+    "name": "kafka",
+    "path": "E:\\HarKrishan\\software\\kafka"
+  },
+  {
+    "name": "maven",
+    "version": "3.9.12",
+    "path": "E:\\HarKrishan\\software\\apache-maven-3.9.12"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Maven: package accounts-api",
+      "type": "shell",
+      "command": "mvn -f ${workspaceFolder}/accounts-api/pom.xml clean package",
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": ["$maven"]
+    },
+    {
+      "label": "Maven: spring-boot:run accounts-api",
+      "type": "shell",
+      "command": "mvn -f ${workspaceFolder}/accounts-api spring-boot:run",
+      "group": "none",
+      "problemMatcher": ["$maven"]
+    }
+  ]
+}

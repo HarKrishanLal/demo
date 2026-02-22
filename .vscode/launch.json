@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch AccountsApplication",
+      "request": "launch",
+      "mainClass": "com.example.accounts.AccountsApplication",
+      "cwd": "${workspaceFolder}/accounts-api"
+    }
+  ]
+}
